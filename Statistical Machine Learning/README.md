@@ -56,3 +56,11 @@ This repository contains coursework materials for **Statistical Machine Learning
 - Jupyter Notebook  
 - Recommended packages:  
   `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`
+
+---
+
+## Reference links
+
+- https://github.com/KarimABOUSSELHAM/ISLP-applied-solutions
+- https://github.com/Seebarsh7/Dive-Into-Deep-Learning
+- https://rpubs.com/lmorgan95
